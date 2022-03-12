@@ -6,3 +6,6 @@ Copyright information for the template can't be altered/removed unless you purch
 More information about the license is available here: https://colorlib.com/wp/licence/
 
 Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+
+
+NOTE TO US: It may end up making sense to swap over to this template instead, but we'll discuss and see: https://themewagon.com/themes/free-bootstrap-4-html5-yoga-website-template-yoga/
